@@ -20,7 +20,7 @@
         <spring.version>4.3.26.RELEASE</spring.version>
         <!--로그 라이브러리 버젼을 미리 설정-->
         <slf4j.version>1.7.30</slf4j.version>
-        <log4j.version>2.13.0</log4j.version>
+        <log4j.version>2.17.0</log4j.version>
 
     </properties>
 
